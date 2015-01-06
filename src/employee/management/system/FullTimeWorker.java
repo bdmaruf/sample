@@ -33,4 +33,7 @@ public class FullTimeWorker extends Worker {
     public void calcu(){
     }
     
+    public void deleteUser(){
+    }
+    
 }
